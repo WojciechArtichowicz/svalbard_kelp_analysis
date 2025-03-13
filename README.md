@@ -12,13 +12,9 @@ Notebooks contain the following information:
 
 ## In case the notebook rendering is not valid, please use [nbviewer](https://nbviewer.org/).
 
- - [1_analysis_physio_chemical.ipynb]() 
- - [2_analysis_speed_velocity.ipynb]()
- - [3_summary_tables.ipynb]()
- - [4_pca_analysis.ipynb]()
- - [5_xgboost_analysis.ipynb]()
- - [6_statistical_analyses.ipynb]()
-
-
-
-
+ - [1_analysis_physio_chemical.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/1_analysis_physio_chemical.ipynb) 
+ - [2_analysis_speed_velocity.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/2_analysis_speed_velocity.ipynb)
+ - [3_summary_tables.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/3_summary_tables.ipynb)
+ - [4_pca_analysis.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/4_pca_analysis.ipynb)
+ - [5_xgboost_analysis.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/5_xgboost_analysis.ipynb)
+ - [6_statistical_analyses.ipynb](https://nbviewer.org/github/WojciechArtichowicz/svalbard_kelp_analysis/blob/main/6_statistical_analyses.ipynb)
